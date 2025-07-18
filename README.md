@@ -42,8 +42,8 @@ A modern, Progressive Web App (PWA) built for dairy businesses to streamline cus
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd dairy-delivery
+   git clone https://github.com/Hazenbox/Dairy-Delivery.git
+   cd Dairy-Delivery
    ```
 
 2. **Install dependencies**
@@ -221,4 +221,4 @@ Need help? Here are some resources:
 
 ---
 
-**Made with ❤️ for dairy businesses everywhere** 
+**Made with ❤️ for dairy businesses everywhere**
